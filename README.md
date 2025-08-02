@@ -1,5 +1,7 @@
 # 🎵 Audio Processing Project - CS50
 
+<img width="1373" height="966" alt="image" src="https://github.com/user-attachments/assets/09c8b701-1d85-401e-8424-887abc3baadf" />
+
 A comprehensive audio processing toolkit featuring volume control, frequency modification, and pitch shifting with a modern web interface.
 
 ## 📁 Project Structure
