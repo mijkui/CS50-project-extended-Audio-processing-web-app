@@ -22,6 +22,10 @@ volume/
 └── docs/                  # Documentation
 ```
 
+## Limitations
+- This program is currently only local development (not deployed).
+- We only support wav files, may develop mp3 and other files in the future.
+
 ## 🚀 Quick Start
 
 ### 1. Build the Project
